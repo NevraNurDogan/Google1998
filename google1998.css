@@ -1,0 +1,70 @@
+
+    
+element.style {
+}
+kullanıcı aracısı stil sayfası
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+kullanıcı aracısı stil sayfası
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space-collapse: collapse;
+    text-wrap: wrap;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+body[Özellik ] {
+    background-color: rgb(255, 255, 255);
+    background-image:after url(/web/19981202230410im_/http://www.google.com/alpha.jpg);
+}
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+        body {
+            background-color: #FFFFFF;
+            background-image: url('/web/19981202230410im_/http://www.google.com/alpha.jpg');
+            text-align: center;
+        }
+
+        .foto {
+            display: block;
+            margin: 0 auto;
+        }
+
+        table {
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        table td {
+            background-color: #EEEEEE;
+        }
+
+        table td:first-child {
+            background-color: #7EE5DA;
+        }
+
+        table td:nth-child(2) {
+            background-color: #70CCC2;
+        }
+
+        table td:last-child {
+            background-color: #62B3AA;
+            
+        }
+   
+        table td a {
+            font-size: small;
+        }
